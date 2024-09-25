@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">Soy ... de San Antonio Oeste, Río Negro, Argentina<br><br>📚 Actualmente estoy cursando la Tecnicatura en Desarrollo Web en la Universidad del Comahue...<br>⚡ En mi tiempo libre, realizo diseños en 3D , hago caminatas para renovar energias , pero el mayor tiempo s elo dedico a la programación.</p>
+<p align="left">Soy ... de San Antonio Oeste, Río Negro, Argentina<br><br>📚 Actualmente estoy cursando la Tecnicatura en Desarrollo Web en la Universidad del Comahue...<br>⚡ En mi tiempo libre, realizo diseños en 3D , hago caminatas para renovar energias , pero el mayor tiempo se lo dedico a la programación.</p>
 
 ###
 
