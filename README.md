@@ -109,7 +109,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/btocarmona2021/btocarmona2021/output/snake.svg" alt="Snake animation" />
 
 ###
 
