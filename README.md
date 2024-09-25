@@ -76,7 +76,7 @@
 
 ###
 
-<h3 align="left">🛠 Lenguajes y herramientas</h3>
+<h3 align="left">🛠 Otras habilidades</h3>
 
 ###
 
